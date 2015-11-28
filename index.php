@@ -63,7 +63,7 @@
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="aws-sdk-demo.php">Cert Prep</a>
+                        <a class="page-scroll" href="aws-sdk-demo.php">Demos</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
